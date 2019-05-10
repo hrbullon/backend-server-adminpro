@@ -1,0 +1,1 @@
+module.exports.SEED = 'custom-txt-jswtoken';
