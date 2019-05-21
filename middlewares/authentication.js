@@ -15,6 +15,9 @@ exports.verifyToken = function(req, res, next) {
                 errors: error
             });
         }
+
+        req.usuario = decoded.usuario;
+
         next();
     });
 }
