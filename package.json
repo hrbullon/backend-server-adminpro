@@ -11,7 +11,7 @@
     "license": "ISC",
     "dependencies": {
         "express": "^4.16.4",
-        "express-fileupload": "^1.1.4",
+        "express-fileupload": "^1.1.9",
         "google-auth-library": "^4.0.0",
         "mongoose": "^5.5.6",
         "serve-index": "^1.9.1"
